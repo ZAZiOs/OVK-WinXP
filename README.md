@@ -1,5 +1,7 @@
 # <img align="right" src="https://raw.githubusercontent.com/ZAZiOs/OVKWinXP/main/gh-icon.svg" alt="openvkXP" title="openvkXP" width="15%">OpenVK Windows XP theme
 
+_[На русском](https://github.com/ZAZiOs/OVKWinXP/blob/main/README.RU.MD)_
+
 Windows XP styled theme for _[OpenVK](https://github.com/openvk/openvk)_
 
 **Created by ZAZiOs, contributed by Daniel Myslivets**
