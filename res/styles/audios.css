@@ -1,0 +1,265 @@
+.searchOptions.newer {
+    position: relative;
+    left: 1px;
+}
+
+
+.searchOptions.newer:has(a[href^="/playlists"]#used) {
+    position: relative;
+    left: 5px;
+}
+
+
+.audio {
+    width: calc(100% - 3px) !important;
+}
+
+.bigPlayer {
+    position: relative;
+    z-index: 1;
+    width: 631px;
+    left: 1px;
+}
+.bigPlayer.floating {
+	position: fixed;
+    z-index: 199;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-49%);
+    width: 776px;
+    margin-top: -76px;
+    box-shadow: 0px 0px 0.5em black;
+}
+
+.friendsAudiosList .elem .additionalInfo .desc {
+    color: white;
+}
+.friendsAudiosList .elem .additionalInfo:hover .desc {
+    color: #878A8F;
+}
+
+.audiosContainer {
+    position: relative;
+    right: 3px;
+    box-shadow: 0px 0px 1.2em;
+    border: 2px solid #c4dbe7;
+    background: white;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+
+.audioEntry .playerButton .playIcon {
+    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/play_buttons.gif)
+}
+
+.musicIcon { 
+    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/audios_controls.png)
+}
+
+.audioEntry .performer a {
+    color: #607849;
+}
+
+.audioEmbed .track > .selectableTrack, .bigPlayer .selectableTrack { 
+    border-color: #607849;
+}
+
+.bigPlayer .paddingLayer .slider, .audioEmbed .track .slider { 
+    background: #607849;
+}
+
+
+.bigPlayer {
+    position: relative;
+    background-color: #daffd6;
+    border-bottom: 0;
+}
+
+.bigPlayer.lagged {
+    filter: opacity(1);
+    z-index: 1;
+    background: hsl(0, 51%, 92%);
+}
+
+.audioEntry.nowPlaying {
+    background: #485a37;
+    border: 1px solid #546840;
+}
+
+.audioEntry.nowPlaying:hover {
+    background: #576d42 !important;
+    border: 1px solid #50643c;
+}
+
+.audioEntry:hover {
+    background: #e1f3df;
+}
+
+.audioEntry .withLyrics {
+    color: #4b8e4b;
+}
+
+#auth:has(.playlistContainer) {
+    background: white;
+}
+.playlistContainer .playlistCover {
+    background: #c4c4c400;
+}
+.playlistContainer {
+    position: relative;
+    right: 1px;
+    bottom: 1px;
+    padding: 15px;
+    min-height: 300px;
+    box-shadow: 0px 0px 1.2em;
+    border: 2px solid #c4dbe7;
+    background: white;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.page_content div div div:has(.playlistContainer) {
+    padding: 0 !important;
+}
+
+#auth .page_content:has(.playlistBlock) {
+    position: relative;
+    right: 10px;
+    bottom: 15px;
+    background: rgb(231,232,216);
+    background: -moz-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 1%, rgba(120,154,226,1) 99%, rgba(231,232,216,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 10px, rgba(120,154,226,1) calc(100% - 10px), rgba(231,232,216,1) 100%);
+    background: linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 15px, rgba(120,154,226,1) calc(100% - 7px), rgba(28, 106, 205, 1) 100%);
+    padding: 10px;
+    padding: 10px;
+    padding-bottom: 0px;
+    margin-bottom: -27px;
+    width: calc(100% - 2px);
+    border-right: 2px solid #1c6acd;
+    border-left: 1px solid #1c6acd;
+}
+
+.page_content:has(.playlistBlock) .bigPlayer {
+    z-index: 2;
+}
+
+.bigPlayer ~ .playlistBlock {
+    margin-top: 0;
+}
+
+.bigPlayer ~ .playlistBlock .playlistCover {
+    margin-top: 9px;
+}
+
+.page_content .playlistBlock .playlistInfo {
+    padding: 10px;
+    background: white;
+    position: relative;
+    z-index: 1;
+    border: 2px solid #c4dbe7;
+    border-top: 0;
+    box-shadow: 0px 0px 1.2em #000;
+}
+
+.page_content .playlistBlock .audiosContainer {
+    position: relative;
+    left: 0;
+    z-index: 0;
+    margin-top: 0 !important;
+    min-height: 140px;
+}
+
+.page_content:has(#newPlaylistForm) div[style^="padding-left:"] div:not(.moreInfo) {
+    border: 2px solid #c4dbe7;
+}
+
+.page_content:has(#newPlaylistForm) div[style^="padding-left:"] .moreInfo {
+    margin: 0 !important;
+}
+
+
+/* Заменит пикчу на WMP */
+.playlistCover img[src^="/assets/packages/static/openvk/img/song.jpg"] {
+    content: url(/themepack/winxpbg/0.0.1.0/resource/img/wmp-unknown.png);
+    height: 135px;
+    width: 135px;
+}
+
+.page_content:has(#newPlaylistForm) div[style^="padding-left:"] .moreInfo textarea {
+    padding: 7px;
+    border: 2px solid #c4dbe7;
+    border-top: 0;
+}
+
+#auth .page_content:has(#newPlaylistForm) {
+    position: relative;
+    right: 10px;
+    bottom: 15px;
+    background: rgb(231,232,216);
+    background: -moz-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 1%, rgba(120,154,226,1) 99%, rgba(231,232,216,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 10px, rgba(120,154,226,1) calc(100% - 10px), rgba(231,232,216,1) 100%);
+    background: linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 15px, rgba(120,154,226,1) calc(100% - 7px), rgba(28, 106, 205, 1) 100%);
+    padding: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-bottom: -20px;
+    width: calc(100% - 2px);
+    border-right: 2px solid #1c6acd;
+    border-left: 1px solid #1c6acd;
+}
+
+
+.page_content:has(#newPlaylistForm) .playlistBlock .playlistCover {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.page_content:has(#editPlaylistForm) .playlistBlock .playlistInfo {
+    box-shadow: none;
+    border-top: 2px solid #c4dbe7;
+    border-bottom: 2px solid #c4dbe7;
+}
+
+.page_content:has(#editPlaylistForm) .playlistBlock .moreInfo textarea {
+    margin: 0 !important;
+    padding: 7px;
+    border: 2px solid #c4dbe7;
+    border-top: 0;
+}
+
+.page_content:has(#editPlaylistForm) {
+    padding-bottom: 20px !important;
+    margin-bottom: -20px !important;
+}
+
+.page_content:has(#editPlaylistForm) .playlistBlock .playlistCover {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.playlistCover img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.playlistCover .profile_links {
+    margin-top: 9px
+}
+
+.playlistAudiosContainer.editContainer {
+    position: relative;
+    right: 1px;
+    bottom: 1px;
+    border: 2px solid #c4dbe7;
+    background: white;
+}
+
+.attachAudio.addToPlaylist:hover {
+    background: #e1f3df;
+}
+
+#newPlaylistForm {
+    margin-bottom: 2px;
+}

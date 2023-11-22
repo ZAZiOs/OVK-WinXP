@@ -1,0 +1,58 @@
+.note_header {
+    background: #f2dd6b;
+    border: #9a833f solid 1px;
+    border-radius: 10px 10px 0 0;
+    font-size: 11px;
+    padding: 9px 10px;
+}
+
+.note_header a {
+    color: black;
+}
+
+.note_header + div {
+    background: rgb(242,221,107);
+    background: -moz-linear-gradient(0deg, rgba(242,221,107,1) 0%, rgba(254,253,248,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(242,221,107,1) 0%, rgba(254,253,248,1) 100%);
+    background: linear-gradient(0deg, rgba(242,221,107,1) 0%, rgba(254,253,248,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f2dd6b",endColorstr="#fefdf8",GradientType=1);    margin-left: 0 !important;
+    width: calc(100% - 18px) !important;
+    padding: 5px 8px;
+    border-left: #9a833f solid 1px;
+    border-right: #9a833f solid 1px;
+}
+
+.note_body:has(.note_footer) .note_footer {
+    box-shadow: none;
+    margin: 0 !important;
+}
+
+.note_body {
+    margin-left: 5px;
+}
+
+.note_footer {
+    background-color: #f2dd6b;
+    border: #9a833f solid 1px;
+    padding: 10px 5px;
+    margin-top: 0 !important;
+    box-shadow: 2px 2px 0.3em 0px #000000aa;
+    margin-bottom: 25px !important;
+}
+
+.comments_count {
+    padding: 0;
+}
+
+#userContent {
+    border-radius: 10px 10px 0 0;
+    box-shadow: 2px 2px 0.3em 0px #000000aa;
+}
+
+#standaloneCommentBox {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    border-bottom: 1px dotted #8b8b8b;
+    z-index: 10;
+}

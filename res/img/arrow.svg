@@ -1,0 +1,32 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #b3c1e6;
+      }
+
+      .cls-4 {
+        fill: #003ca5;
+      }
+    </style>
+  </defs>
+  <title>arrow</title>
+  <g>
+    <image class="cls-1" width="25" height="25" transform="translate(0.91 1.13)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAACXBIWXMAAAsSAAALEgHS3X78AAAE3ElEQVRIS72WS2tVSRDH/1X9OI97ckMSYwyEgHAZErJTmKxd6t75OpqvM+5nlrPOQlcjBgkI4qjRycObe8+ru6tmcZOYjE+YwV4dqKJ+p7q6/lWkqvgRx37LAQCIiGZfD+lT60MFAP3GH9PX7DPAfR6NJvYIyAqbO5V4ASO22sQ2LALd/n4VgUfyJeAXQUQ7PBrtusbmFVFYTKQ3WM2QSS0UBIKKUhRKY6P0VtUdFbGd7O9vB9UH8km8z4GIfjHLWyg41NetpZtQ/skY3WDmFSZkBIJCIYpORA5Soj2QPI9RX4gr371/ikb11/RV0DnEhXaNHW4x8bY1tOksreeeh8awIyKoKlKS0PYyDlFfxqTPRGVXAp4El7/6N+zKYyDa4XMIOf7ZMu5kjm8XuVktc1sNCnbOMhEABRCi6LSRhbqNS02bbnQBw+BgXWixvJW/Itqpz6/xAkRENBrddaeBr7PjW5Zxp/Bme1jZtWFlyzJjtgakEpFSgjEGhbcoM+a6YzeexGw8iRZ9QnSIHOp+NNr9i4h6VdVLGd3nxsbKcrjJxNve8e25yq4tzvvBICdWCainNaaTGn3fwfsMg6pEWZY0P3DGGh4osJZONUqPsbV60Ej+Abh/AiDZS9nYlsyiKv9kDW2WuV2dr1w5yIkl9Tg+Osb7vw9xOp4ihADnHOaGAyxfW8LC4gIGueeYXNkHXY0pbKbEe0Th5WjUTohIzjJSHOFelpHecNANZ2m9zE1VZMQqESfHx3j9+gCHh8fo+wAiQBWYTmuEPoIIWFhcQpEZLnNTNV1cj0E3AvTPI+AA0P4MtEOFzR00DdnRSu7NcFAY5x1RV7c4PDzB8fEJ6roBEcFag5QS6jqCmZDnGQaDAbKyokFh3LQxwy7ICgcaFtY7YIcuaqQSyRg4JuONIZd5JsNAjBF93yMlgapCRKAqEFEQEVIS9H2PGCNKBjLPZA05JvaM6NKZkjA+OfpRzxQ47zNrDYzh8/6BqsIYhrXmwpkAMBOICHQ5Dj4jqiKqMSq6XuAtIDILnJKAmZHnGYzhC1hKAhGB6KxuIgpVhYKuKMHHPmKrghQg0nd9CpM6qjMMUYCZ4b1DWeYoigJZ5tF1PZqmQYwJzLOLiUnR9aoxaRCVXkCB2Ogl0ANt4r2QeR6r8kEfZTxt00LulS1bGs7PoShzVIMSVVXCOYcQAiaTGtNpDe89rHXogui0kdD2aSxRDoRk3IUQgAfnDUtYxN2uVXqroL2YdLPt0lLdkpuvMnPt2jKMAcoiQ5Z5MDNEBMPhHNqugyqB2GPaqtRtmoSoL5PSngG9XQS6I9DsMaiq7u9XUdUdgeR5Un0WorypO6nbwEI2R15W8FkB6xyss/DeoyxLVNUQLivRRpLxNNZ1G9/EpM9A8lzVHc3iXpGgR1LEu5NT5heGaTcmDJs2WQBrIdgyJOJYEBUKWHNWk6hoOtVJI/LhNNan0/iqD/JYVHZj1Bdz0k6A36+Kqqoq0U5Y3nr6zoT2iRBsFxRJYux6Wa27VA3y6KrSkXczUB+STusUpl2cNE160wV5HAR/aMATceW7/adbQfU3Bb4xj+BwixXbRLRpDa17y8PMG2ftrEVS0tD26bvm0XdPWCLdIMKKYc6YZxPpP03Yj7AfsDNcGH/EFnTF6X/Y6/4BKchggtI0O9kAAAAASUVORK5CYII="/>
+    <g>
+      <g>
+        <circle class="cls-2" cx="12.5" cy="12.5" r="8.5"/>
+        <path class="cls-3" d="M12.5,4.5a8,8,0,1,1-8,8,8,8,0,0,1,8-8m0-1a9,9,0,1,0,9,9,9,9,0,0,0-9-9Z"/>
+      </g>
+      <path class="cls-4" d="M12.46,13.4,8.21,15.87V14.46l4.25-2.93,4.26,2.93v1.41Zm0-3.61L8.21,12.23V10.84l4.25-3,4.26,3v1.38Z"/>
+    </g>
+  </g>
+</svg>

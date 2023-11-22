@@ -1,0 +1,50 @@
+
+.group_info tbody tr .label .nobold {
+    color: #333 !important;
+}
+
+.group_info tbody tr .data{
+    color: black !important;
+} 
+
+.group_info tbody tr .data a {
+    color: #29437b !important;
+    text-decoration: none !important;
+}
+
+#auth .page_content:has(.right_small_block) {
+    position: relative;
+    right: 10px;
+    bottom: 15px;
+    background: rgb(231,232,216);
+    background: -moz-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 1%, rgba(120,154,226,1) 99%, rgba(231,232,216,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 10px, rgba(120,154,226,1) calc(100% - 10px), rgba(231,232,216,1) 100%);
+    background: linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 15px, rgba(120,154,226,1) calc(100% - 7px), rgba(28, 106, 205, 1) 100%);
+    padding: 10px;
+    width: calc(100% - 2px);
+    border-right: 2px solid #1c6acd;
+    border-left: 1px solid #1c6acd;
+}
+
+.left_big_block {
+    transition: ease-in-out 0.3s;
+    right: 0px;
+    margin-right: 0px;
+}
+
+.right_small_block {
+    width: 200px;
+    transition: ease-in-out 0.5s;
+    opacity: 100;
+    display: block;
+}
+
+.page_content.overscrolled div.right_small_block {
+    transition: 0s linear;
+    position: relative;
+    right: 0px;
+}
+
+.content td[valign^="top"][style^="width: 100%"] {
+    width: auto !important;
+}

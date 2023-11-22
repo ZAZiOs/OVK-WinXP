@@ -1,0 +1,67 @@
+.page_custom_header {
+    position: relative;
+    width: 788px;
+    height: 59px;
+    background-repeat: no-repeat !important;
+    background-position: 0;
+    background: url(/themepack/winxpbg/0.0.1.0/resource/img/header-02.svg) !important
+}
+
+.page_header {
+    position: relative;
+    width: 788px;
+    height: 59px;
+    background-repeat: no-repeat !important;
+    background-position: 0;
+    background: url(/themepack/winxpbg/0.0.1.0/resource/img/header-01.svg)
+}
+
+.header_navigation {
+    text-align: center;
+    line-height: 10px;
+    padding-left: 0;
+    text-transform: lowercase;
+    float: right;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    margin-top: 17px;
+}
+
+.header_navigation .link {
+    display: inline-block;
+    height: 29px;
+    padding: 11px 4px 0 7px;
+    background-size: 1.5px 41px;
+    font-size: 16px;
+}
+
+.header_navigation .link a {
+    color: #dfe3ff;
+    text-decoration: none;
+    font-weight: normal
+}
+
+.header_navigation .link a:hover {
+    text-decoration: underline;
+    color: #5a9cff
+}
+
+.header_navigation .link {
+    background: url(/themepack/winxpbg/0.0.1.0/resource/img/2.png) no-repeat
+}
+
+.navigation .link {
+    display: block;
+    padding: 1px 3px 3px 6px;
+    text-decoration: none;
+    border-top: 1px solid #76889e;
+    color: #2B587A;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    font-size: 11px;
+    text-align: left;
+    cursor: pointer;
+    background: none;
+    margin-bottom: 0px
+}

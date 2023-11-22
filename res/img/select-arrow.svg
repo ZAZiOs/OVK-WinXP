@@ -1,0 +1,31 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="423.67" height="481.61" viewBox="0 0 423.67 481.61">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #96abcc;
+        stroke-width: 18.11px;
+        fill: url(#Безымянный_градиент_37);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #3a4f91;
+        stroke-linecap: square;
+        stroke-width: 65.18px;
+      }
+    </style>
+    <radialGradient id="Безымянный_градиент_37" data-name="Безымянный градиент 37" cx="211.83" cy="240.8" fx="580.370064402041" fy="528.340921330225" r="475.09" gradientTransform="translate(-3.96 -32.18) rotate(-0.83) scale(1 1.15)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.61" stop-color="#a6bff1"/>
+      <stop offset="0.68" stop-color="#bacef6"/>
+      <stop offset="0.79" stop-color="#d4e0fd"/>
+      <stop offset="0.85" stop-color="#dee7ff"/>
+    </radialGradient>
+  </defs>
+  <title>select-focus</title>
+  <rect class="cls-1" x="9.05" y="9.05" width="405.56" height="463.5" rx="41.1"/>
+  <polyline class="cls-2" points="126.74 210.02 210.02 293.31 300.55 206.4"/>
+</svg>

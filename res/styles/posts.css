@@ -1,0 +1,23 @@
+.post-content {
+    border-bottom: #7a7a7a solid 1px;
+    font-size: 9px;
+}
+
+.post-author {
+    background-color: #c3d5ed;
+    border-top: #29437b solid 1px;
+    border-bottom: #29437b solid 1px;
+    font-size: 11px;
+    padding: 3px 5px 3px
+}
+
+.post-author .date {
+    font-size: 9px;
+    color: black
+}
+
+.post-online {
+    color: #009203;
+    font-weight: bold;
+    padding-top: 0;
+}

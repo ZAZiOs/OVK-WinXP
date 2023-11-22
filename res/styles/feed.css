@@ -1,0 +1,101 @@
+.postFeedWrapper {
+    position: relative;
+    left: 2px;
+    width: 613;
+}
+
+.postFeedWrapper ~ table {
+    background: rgb(215 222 248);
+    border: 1px #f5fdff solid;
+    border-top: 0;
+    width: 625px;
+    position: relative;
+    right: 7px;
+    padding: 7px;
+}
+
+.postFeedWrapper ~ table tbody {
+    padding: 5px;
+}
+
+.post-content .media_makima {
+    width: calc(100% - 20px);
+    height: calc(100% - 20px);
+    object-fit: cover;
+}
+
+
+.postFeedWrapper ~ table:first-of-type {
+    border-top: 1px #f5fdff solid;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.postFeedWrapper ~ table:last-of-type {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+#auth .page_content:has(.postFeedWrapper) {
+    position: relative;
+    right: 10px;
+    bottom: 15px;
+    background: rgb(231,232,216);
+    background: -moz-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 1%, rgba(120,154,226,1) 99%, rgba(231,232,216,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 10px, rgba(120,154,226,1) calc(100% - 10px), rgba(231,232,216,1) 100%);
+    background: linear-gradient(0deg, rgba(231,232,216,1) 0%, rgba(120,154,226,1) 15px, rgba(120,154,226,1) calc(100% - 7px), rgba(28, 106, 205, 1) 100%);
+    padding: 10px;
+    padding-bottom: 20px;
+    width: calc(100% - 2px);
+    border-right: 2px solid #1c6acd;
+    border-left: 1px solid #1c6acd;
+}
+
+.paginator {
+    background-color: #f5fdff79;
+    border-radius: 4px;
+    border: 2px #f5fdff79 solid;
+    display: flex;
+}
+
+.paginator > a {
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+    display: block;
+    transition: linear 0.2s;
+}
+
+.paginator > a.active {
+    border-color: #29437b;
+}
+
+.paginator > a:hover {
+    border-color: #29437b7F;
+    transition: linear 0.2s;
+}
+
+.paginator > a.active:hover {
+    border-color: #29437b;
+}
+
+.paginator > a:active {
+    border-color: hsl(221 65% 42% / 1);
+    background: hsl(220 7% 81% / 1);
+    transition: linear 0.1s;
+}
+
+.paginator > a:first-of-type {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.paginator > a:last-of-type {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.postFeedPageSelect {
+    color: white;
+}

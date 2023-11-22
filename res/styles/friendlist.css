@@ -1,0 +1,78 @@
+.mb_tabs {
+    border-color: #cdcebe;
+    background: #f7f7f7;
+    display: flex;
+    justify-content: center;
+}
+
+.mb_tab {
+    border-radius: 3px;
+    border: #ffffff 1px solid;
+    font-size: 11px;
+    outline: none;
+    white-space: nowrap;
+    background: rgb(227,223,219);
+    background: -moz-linear-gradient(0deg, rgba(227,223,219,1) 60%, rgba(255,254,255,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(227,223,219,1) 60%, rgba(255,254,255,1) 100%);
+    background: linear-gradient(0deg, rgba(227,223,219,1) 60%, rgba(255,254,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e3dfdb",endColorstr="#fffeff",GradientType=1);
+    color: #000000;
+    margin-right: 5px;
+    margin-left: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    text-shadow: 0 0 0;
+    transition: linear 0.1s;
+    outline: 1px #194e7f solid;
+}
+
+.mb_tab div {
+    padding: 0;
+}
+
+.mb_tab a {
+    display: inline-block;
+    padding: 8px 16px 8px;
+}
+
+.mb_tab:hover {
+    transition: linear 0.1s;
+    border: 1px #6791b9 solid;
+    outline: 1px #194e7f solid;
+    color: #000;
+}
+
+.mb_tab:active {
+    background: rgb(213,195,177);
+    background: -moz-linear-gradient(0deg, rgba(213,195,177,1) 60%, rgba(254,232,209,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(213,195,177,1) 60%, rgba(254,232,209,1) 100%);
+    background: linear-gradient(0deg, rgba(213,195,177,1) 60%, rgba(254,232,209,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d5c3b1",endColorstr="#fee8d1",GradientType=1);
+    transition: linear 0.1s;
+    border: 1px #ffc83c solid;
+    outline: 1px #b96d1d solid;
+    color: #000;
+}
+
+.mb_tab#active {
+    background: rgb(213,195,177);
+    background: -moz-linear-gradient(0deg, rgba(213,195,177,1) 60%, rgba(254,232,209,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(213,195,177,1) 60%, rgba(254,232,209,1) 100%);
+    background: linear-gradient(0deg, rgba(213,195,177,1) 60%, rgba(254,232,209,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d5c3b1",endColorstr="#fee8d1",GradientType=1);
+}
+
+.mb_tab#active div {
+    border: 0 solid #5f5f5f;
+}
+
+.mb_tab#active a {
+    color:rgb(184, 108, 22);
+}
+
+.summaryBar .summary {
+    color: #458e52;
+}
+.summaryBar {
+    border-bottom: #cdcebe;
+}
