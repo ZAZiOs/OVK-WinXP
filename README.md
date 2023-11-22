@@ -14,3 +14,5 @@ Clone it into `chandler/extensions/available/openvk/themepacks/` and there are t
 If you find any bugs (Which may appear, for example, due to an update) - Report it to the Issues section.
 
 If you want to improve the theme somehow, you're welcome to make a pull request with screenshots of improvements.
+
+WARN: This theme contains a considerable part of the code that is sensitive to changes in the HTML code of the page. If you find any bug, please report it to @ZAZiOs (in VK or Telegram)
