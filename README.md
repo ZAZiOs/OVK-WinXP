@@ -5,8 +5,6 @@ Windows XP styled theme for _[OpenVK](https://github.com/openvk/openvk)_
 **Created by ZAZiOs**
 **Contributed by Daniel Myslivets**
 
-<hr>
-
 ##  Install:
 Unpack theme and put it into `handler/extensions/enabled/openvk/themepacks/`
 
