@@ -1,4 +1,4 @@
-# <img align="right" src="https://github.com/openvk/openvk/raw/master/gh-icon.svg" alt="openvkXP" title="openvkXP" width="15%">OpenVK Windows XP theme
+# <img align="right" src="https://raw.githubusercontent.com/ZAZiOs/OVK-WinXP/main/gh-icon.svg" alt="openvkXP" title="openvkXP" width="15%">OpenVK Windows XP theme
 
 Windows XP styled theme for _[OpenVK](https://github.com/openvk/openvk)_
 
