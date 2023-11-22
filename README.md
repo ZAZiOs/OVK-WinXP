@@ -7,7 +7,9 @@ Windows XP styled theme for _[OpenVK](https://github.com/openvk/openvk)_
 **Created by ZAZiOs, contributed by Daniel Myslivets**
 
 ##  Install:
-Clone it into `chandler/extensions/available/openvk/themepacks/`
+Clone it into `chandler/extensions/available/openvk/themepacks/` and there are two options next
+1. rename the folder to OVKWinXP
+2. Change the id in theme.yml
 
 If you find any bugs (Which may appear, for example, due to an update) - Report it to the Issues section.
 
