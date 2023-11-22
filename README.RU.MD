@@ -5,7 +5,9 @@
 **Разработан ZAZiOs при поддержке Daniel Myslivets**
 
 ##  Установка:
-Клонируйте репозиторий в `chandler/extensions/available/openvk/themepacks/`
+Клонируйте репозиторий в `chandler/extensions/available/openvk/themepacks/` и дальше два варианта:
+1. Переименуйте папку в `OVKWinXP`
+2. Измените id в theme.yml
 
 Если вы нашли какой-то баг (А они могут возникнуть из-за обновлений) - Сообщите о них в раздел Issues
 
