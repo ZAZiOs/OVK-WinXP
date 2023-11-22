@@ -1,14 +1,14 @@
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/common.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/friendlist.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/header.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/messenger.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/posts.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/search.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/audios.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/notes.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/pfpage.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/group.css");
-@import url("/themepack/winxpbg/0.0.1.0/resource/styles/feed.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/common.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/friendlist.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/header.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/messenger.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/posts.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/search.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/audios.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/notes.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/pfpage.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/group.css");
+@import url("/themepack/OVKWinXP/0.0.1.0/resource/styles/feed.css");
 
 #standaloneCommentBox {
     background: none;
@@ -72,7 +72,7 @@ EXPERIMENTAL: Cookies like a window-header
     box-shadow: none;
     transition: background 0.1s;
     border: none;
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/close.svg);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/close.svg);
     background-size: 24px;
     outline: none;
     display: block;
@@ -83,11 +83,11 @@ EXPERIMENTAL: Cookies like a window-header
 }
 
 .cookies-popup .contanier .buttons a:hover {
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/close-hover.svg);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/close-hover.svg);
 }
 
 .cookies-popup .contanier .buttons a:active {
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/close-active.svg);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/close-active.svg);
 }
 
 .cookies-popup .contanier .text {
@@ -309,7 +309,7 @@ nobold {
 
 /*.content_title_expanded,
 .content_title_unexpanded {
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/arrow.svg) !important;
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/arrow.svg) !important;
     background-repeat: no-repeat !important;
     font-weight: bold;
     font-size: 11px;
@@ -372,29 +372,29 @@ nobold {
 }
 
 input[type="radio"] {
-    background-image: url("/themepack/winxpbg/0.0.1.4/resource/img/radio.png")
+    background-image: url("/themepack/OVKWinXP/0.0.1.4/resource/img/radio.png")
 }
 
 .name-checkmark {
     margin-left: 2pt;
-    content: url("/themepack/winxpbg/0.0.1.4/resource/img/checkmark.png") !important
+    content: url("/themepack/OVKWinXP/0.0.1.4/resource/img/checkmark.png") !important
 }
 
 .heart {
-    background-image: url("/themepack/winxpbg/0.0.1.4/resource/img/like.gif") !important
+    background-image: url("/themepack/OVKWinXP/0.0.1.4/resource/img/like.gif") !important
 }
 
 .pinned-mark,
 .post-author .pin {
-    background-image: url("/themepack/winxpbg/0.0.1.4/resource/img/pin.png") !important
+    background-image: url("/themepack/OVKWinXP/0.0.1.4/resource/img/pin.png") !important
 }
 
 .repost-icon {
-    background-image: url("/themepack/winxpbg/0.0.1.4/resource/img/published.gif") !important
+    background-image: url("/themepack/OVKWinXP/0.0.1.4/resource/img/published.gif") !important
 }
 
 .post-author .delete {
-    background-image: url("/themepack/winxpbg/0.0.1.4/resource/img/input_clear.gif") !important
+    background-image: url("/themepack/OVKWinXP/0.0.1.4/resource/img/input_clear.gif") !important
 }
 
 .home_button_custom {

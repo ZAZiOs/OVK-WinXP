@@ -1,9 +1,9 @@
 .content_title_expanded {
     color: #234376 !important;
     background: rgb(255,253,255);
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/arrow.svg), -moz-linear-gradient(90deg, rgba(255,253,255,1) 5%, rgba(188,211,255,1) 95%);
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/arrow.svg), -webkit-linear-gradient(90deg, rgba(255,253,255,1) 5%, rgba(188,211,255,1) 95%);
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/arrow.svg), linear-gradient(90deg, rgba(255,253,255,1) 5%, rgba(188,211,255,1) 95%) !important;
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/arrow.svg), -moz-linear-gradient(90deg, rgba(255,253,255,1) 5%, rgba(188,211,255,1) 95%);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/arrow.svg), -webkit-linear-gradient(90deg, rgba(255,253,255,1) 5%, rgba(188,211,255,1) 95%);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/arrow.svg), linear-gradient(90deg, rgba(255,253,255,1) 5%, rgba(188,211,255,1) 95%) !important;
     background-repeat: no-repeat;
     background-position-x: 100%;
     background-position-y: 50%;
@@ -125,7 +125,7 @@
 .content_title_unexpanded {
     color: #234376 !important;
     background-color: rgba(188,211,255,1);
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/arrow-180.svg) !important;
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/arrow-180.svg) !important;
     background-repeat: no-repeat;
     background-position-x: 100%;
     background-position-y: 50%;

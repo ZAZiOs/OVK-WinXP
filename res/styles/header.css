@@ -4,7 +4,7 @@
     height: 59px;
     background-repeat: no-repeat !important;
     background-position: 0;
-    background: url(/themepack/winxpbg/0.0.1.0/resource/img/header-02.svg) !important
+    background: url(/themepack/OVKWinXP/0.0.1.0/resource/img/custom-header.svg) !important
 }
 
 .page_header {
@@ -13,7 +13,7 @@
     height: 59px;
     background-repeat: no-repeat !important;
     background-position: 0;
-    background: url(/themepack/winxpbg/0.0.1.0/resource/img/header-01.svg)
+    background: url(/themepack/OVKWinXP/0.0.1.0/resource/img/header.svg)
 }
 
 .header_navigation {
@@ -47,7 +47,7 @@
 }
 
 .header_navigation .link {
-    background: url(/themepack/winxpbg/0.0.1.0/resource/img/2.png) no-repeat
+    background: url(/themepack/OVKWinXP/0.0.1.0/resource/img/2.png) no-repeat
 }
 
 .navigation .link {

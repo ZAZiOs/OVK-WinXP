@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/bg.svg) !important;
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/bg.svg) !important;
     background-color: #7b9331;
     background-size: cover;
     background-repeat: no-repeat !important
@@ -29,7 +29,7 @@ select {
     -moz-appearance: none;
     -webkit-appearance: none;
     appearance: none;
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/select-arrow.svg);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/select-arrow.svg);
     background-repeat: no-repeat;
     background-position-x: calc(100% - 1px);
     background-position-y: 1px;
@@ -48,7 +48,7 @@ select:focus {
     -webkit-appearance: none;
     appearance: none;
     background-color: #ffe7cb;
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/select-focus.svg);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/select-focus.svg);
     background-repeat: no-repeat;
     background-position-x: calc(100% - 1px);
     background-position-y: 1px;
@@ -57,7 +57,7 @@ select:focus {
 }
 
 input[type="checkbox"] {
-    background-image: url("/themepack/winxpbg/0.0.1.4/resource/img/checkbox.png");
+    background-image: url("/themepack/OVKWinXP/0.0.1.4/resource/img/checkbox.png");
     width: 14px;
 }
 
@@ -139,7 +139,7 @@ input[type="checkbox"] {
 }
 
 #backdropEditor {
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/backdrop.png);
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/backdrop.png);
 	height: 251px;
 }
 
@@ -350,68 +350,68 @@ input[type="checkbox"] {
 
 
 .post-author .edit {
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/edit.png) !important;
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/edit.png) !important;
 }
 
 #photosAttachments img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/Camera.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/Camera.svg);
     width: 16px;
 }
 
 #videoAttachment img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/Video.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/Video.svg);
     width: 16px;
 }
 
 #_audioAttachment img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/Sound.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/Sound.svg);
     width: 16px;
 }
 
 
 #_audioAttachment ~ a[href^="javascript:attachNote"] img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/Wizard.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/Wizard.svg);
     width: 16px;
 }
 
 #_audioAttachment ~ a[href^="javascript:initGraffiti"] img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/Personalization.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/Personalization.svg);
     width: 16px;
 }
 
 #_audioAttachment ~ a[href^="javascript:initPoll"] img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/Globe.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/Globe.svg);
     width: 16px;
 }
 
 .authorIcon {
     margin-top: 2px;
-    background: url(/themepack/winxpbg/0.0.1.0/resource/img/person-icon.svg) no-repeat 0 0;
+    background: url(/themepack/OVKWinXP/0.0.1.0/resource/img/person-icon.svg) no-repeat 0 0;
     background-size: 10.7px;
 }
 
 #minilink-friends img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/minilink/friends.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/minilink/friends.svg);
     width: 11px;
 }
 
 #minilink-albums img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/minilink/photos.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/minilink/photos.svg);
     width: 11px;
 }
 
 #minilink-messenger img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/minilink/messages.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/minilink/messages.svg);
     width: 11px;
 }
 
 #minilink-groups img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/minilink/groups.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/minilink/groups.svg);
     width: 11px;
 }
 
 #minilink-notifications img {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/minilink/feedback.svg);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/minilink/feedback.svg);
     width: 11px;
 }
 
@@ -444,19 +444,19 @@ input[type="checkbox"] {
 }
 
 img[src^="/assets/packages/static/openvk/img/icon3.gif"] {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/status.png);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/status.png);
     width: 19px;
     vertical-align: middle !important;
     margin-right: 3px;
 }
 img[src^="/assets/packages/static/openvk/img/icon2.gif"] {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/telegram.png);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/telegram.png);
     width: 19px;
     vertical-align: middle !important;
     margin-right: 3px;
 }
 img[src^="/assets/packages/static/openvk/img/icon1.gif"] {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/interest.png);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/interest.png);
     width: 19px;
     vertical-align: middle !important;
     margin-right: 3px;

@@ -50,11 +50,11 @@
 
 
 .audioEntry .playerButton .playIcon {
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/play_buttons.gif)
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/play_buttons.gif)
 }
 
 .musicIcon { 
-    background-image: url(/themepack/winxpbg/0.0.1.0/resource/img/audios_controls.png)
+    background-image: url(/themepack/OVKWinXP/0.0.1.0/resource/img/audios_controls.png)
 }
 
 .audioEntry .performer a {
@@ -181,7 +181,7 @@
 
 /* Заменит пикчу на WMP */
 .playlistCover img[src^="/assets/packages/static/openvk/img/song.jpg"] {
-    content: url(/themepack/winxpbg/0.0.1.0/resource/img/wmp-unknown.png);
+    content: url(/themepack/OVKWinXP/0.0.1.0/resource/img/wmp-unknown.png);
     height: 135px;
     width: 135px;
 }
