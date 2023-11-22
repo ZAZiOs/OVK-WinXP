@@ -2,8 +2,7 @@
 
 Windows XP styled theme for _[OpenVK](https://github.com/openvk/openvk)_
 
-**Created by ZAZiOs**
-**Contributed by Daniel Myslivets**
+**Created by ZAZiOs, contributed by Daniel Myslivets**
 
 ##  Install:
 Unpack theme and put it into `chandler/extensions/enabled/openvk/themepacks/`
